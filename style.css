@@ -4,15 +4,6 @@ margin: 5;
   box-sizing : border-box;
 }
 body{
-  style
-      *{
-        margin: 0;
-        padding: 0;
-      }
-   body {
-     background-color: rgb(6, 6, 36);
-     color: white;
-   }
     style
    .profile-section {
     text-align : center ;
@@ -27,11 +18,6 @@ body{
   box-shadow: 0 4px 10px rgba(0,  0, 0, 0.3);
   display: block ;
   margin: 0 auto 20px auto;
-}
-  background: linear-gradient( to bottom right, #e0eafc, #cfdef3);
-  font-family: 'Seoge UI', sans-serif;
-  color: #333;
-  padding: 20px;
 }
 h1{
   text-align: centre ;
