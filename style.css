@@ -1,17 +1,16 @@
 *{ 
-margin: 5;
-  padding: 5;
+  margin: 0;
+  padding: 20px;
   box-sizing : border-box;
+  
 }
+
 body{
     style
    .profile-section {
     text-align : center ;
     margin-top : 30px;
 }
-  body{
-    font-family: "Playwrite AU QLD", cursive;
-  }
 .profile-img {
   width: 150px;
   height: 150px;
@@ -24,17 +23,54 @@ body{
 }
 h1{
   text-align: centre ;
-  color: #2c3e50;
+  color: red;
 }
 h2 {
   color: #2c3e50;
   margin-top: 30px;
 }
 p{
-  line-height: 1.6;
-  margin-bottom: 10px
+  font-size: 1.06rem;
+  line-height: 1.06;
+  margin-bottom: 5px;
   }
  .contact, .projects{
    margin-top: 20px;
  }
-  
+  nav{
+      display: flex;
+      justify-content: space-around;
+      align-items: centre;
+      height: 50px;
+      background-color: rgb(55, 55, 120);
+      padding:10px;
+      
+      }
+      nav ul{
+        display: flex;
+        justify-content: center;
+      }
+      nav ul li{
+        list-style: none;
+        margin: 0 20px;
+      }
+      .left{
+        font-size: 30px;
+        font-color: rgb(140, 8, 8);
+      }
+      .firstsection{
+        display: flex;
+        justify-content: space-around;
+        margin: 10px;
+      }
+      .firstsection div{
+        width: 30%;
+      }
+      .leftsection{
+        width: 50%;
+        
+      }
+      .rightsection img{
+        margin: 30px;
+        width: 400px;
+      }
