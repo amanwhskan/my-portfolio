@@ -9,6 +9,12 @@ body{
     text-align : center ;
     margin-top : 30px;
 }
+.playwrite-au-qld-<uniquifier> {
+  font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  }
 .profile-img {
   width: 150px;
   height: 150px;
