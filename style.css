@@ -151,7 +151,7 @@ p{
     }
     .vertical-text{
       position:relative;
-      top: 90px;
+      top: 80px;
       width: 350px;
       color: aqua;
       font-size: 1.5rem;
@@ -172,5 +172,5 @@ p{
       padding:20px;
     }
     .container{
-      margin-bottom: 400px;
+      margin-bottom: 500px;
     }
